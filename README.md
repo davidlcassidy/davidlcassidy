@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**davidlcassidy/davidlcassidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ahoy, Matey! 🏴‍☠️
 
-Here are some ideas to get you started:
+Welcome aboard me GitHub galleon! I sail the seven stacks, craftin’ applications as shiny as buried treasure and interfaces as smooth as a calm sea. This here treasure trove be a collection of personal projects, experiments, and the occasional Kraken-sized bug. Hoist the sails and explore me techy adventures! ⚓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💎 Me Treasure Chest
+
+Here be a few gems from me GitHub booty:
+
+-   **Travel Wallet:** Travel Wallet is a free Android application used to manage travel loyalty programs and credit card
+    
+-   **Family Media Processor:** Flask-based, Docker-deployable application automates setting media file metadata, geotagging, and organization.
+    
+-   **Christmas Letters Website:** Simple bilingual website for sharing private family Christmas letters with password protection, deployment via Cloudflare Pages
+    
+
+Check out me other repos—there be plenty of surprises, treasures, and the occasional barnacle-covered code.
+
+## 📬 Send a Parrot
+
+Me crow’s nest be always open fer collaborations, feedback, and hearty chats—or fer sharing memes that tickle yer funny bone. Reach out here:
+
+- 💻 [Website](https://www.davidlcassidy.com/)
+    
+- 💼 [LinkedIn](https://github.com/davidlcassidy)
+
+-  📄 [Resume](https://www.davidlcassidy.com/DavidLCassidy_Resume.pdf)
