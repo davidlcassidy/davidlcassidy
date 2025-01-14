@@ -7,13 +7,13 @@ Hi there! You've arrived at my GitHub corner, where I build and share all kinds 
 
 Here’s a sneak peek at some of my favorite creations:
 
-- **Travel Wallet**: A free Android app that helps manage travel loyalty programs and credit cards.
+- **[Travel Wallet](https://github.com/davidlcassidy/travel-wallet)**: A free Android app that helps manage travel loyalty programs and credit cards.
   
-- **Family Media Processor**: A Flask-based, Docker-deployable app that automates setting metadata, geotagging, and organizing media files.
+- **[Family Media Processor](https://github.com/davidlcassidy/family-media-processor)**: A Flask-based, Docker-deployable app that automates setting metadata, geotagging, and organizing media files.
   
-- **Christmas Letters Website**: A simple, bilingual website designed for sharing private family Christmas letters, complete with password protection and deployed via Cloudflare Pages.
+- **[Christmas Letters Website](https://github.com/davidlcassidy/christmas-letters-website)**: A simple, bilingual website designed for sharing private family Christmas letters, complete with password protection and deployed via Cloudflare Pages.
 
-Feel free to explore my other repositories—there’s plenty more to discover, from small utilities to larger applications!
+Feel free to explore my other repositories—there’s plenty more to discover!
 
 ## 📬 Get in Touch
 
