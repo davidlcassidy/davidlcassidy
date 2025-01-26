@@ -13,7 +13,7 @@ Here’s a sneak peek at some of my favorite creations:
   
 - **[Christmas Letters Website](https://github.com/davidlcassidy/christmas-letters-website)**: Simple bilingual website for sharing private family Christmas letters with password protection, deployment via Cloudflare Pages.
 
-Feel free to explore my other repositories—there’s plenty more to discover!
+Feel free to explore my other repositories — there’s plenty more to discover!
 
 ## 📬 Get in Touch
 
