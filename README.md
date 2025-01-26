@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-You've arrived at my GitHub corner, where I build and share all kinds of cool projects. From mobile apps to web tools, and everything in between, I aim to create clean and useful tech. Dive in and explore some of my work!
+You've arrived at my GitHub corner, where I build and share a variety of exciting projects, ranging from mobile apps to web tools and everything in between. Most of the projects I build are aimed at automating tasks or solving everyday problems for myself and my family. My focus is on building software that is both functional and user-friendly, with a clean, efficient design. Feel free to dive in and check out what I've been working on!
 
 ## 🚀 Featured Projects
 
